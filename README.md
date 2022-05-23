@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hello!
 
-<!--
-**jonasccosta/jonasccosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jonas Costa (he/him/his), a full stack software developer.
 
-Here are some ideas to get you started:
+I design and develop mobile software with a focus on ethics, accessibility and social justice.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align="center">
+  <a href="https://github.com/jonasccosta">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonasccosta&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasccosta&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div>
+  
+  ![Snake animation](https://github.com/jonasccosta/jonasccosta/blob/output/github-contribution-grid-snake.svg)
