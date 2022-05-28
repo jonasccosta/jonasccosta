@@ -1,5 +1,3 @@
-
-
 <div align="center">
   <a href="https://github.com/jonasccosta">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonasccosta&count_private=true&show_icons=true&theme=midnight-purple&include_all_commits=true"/>
